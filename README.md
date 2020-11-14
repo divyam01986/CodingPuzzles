@@ -1,1 +1,1 @@
-# CodingPuzzles
+# Java Solutions to Leetcode problems.
